@@ -1,0 +1,17 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+.venv-1/
+venv/
+
+data/*.csv
+Data/*.csv
+models/*.joblib
+models/*.json
+reports/*.csv
+reports/*.json
+
+.vscode/
+.DS_Store
+Thumbs.db
